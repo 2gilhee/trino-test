@@ -63,7 +63,7 @@
             "columns": [
                 {
                     "name": "orderkey",
-                    "type": "BIGINT"
+                    "type": "INTEGER"
                 },
                 {
                     "name": "partkey",
