@@ -67,7 +67,7 @@
                 },
                 {
                     "name": "partkey",
-                    "type": "BIGINT"
+                    "type": "INTEGER"
                 },
                 {
                     "name": "suppkey",
